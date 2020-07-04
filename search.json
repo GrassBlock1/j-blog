@@ -1,43 +1,8 @@
 [
   
     {
-      "title"    : "Jekyll Theme MDUI Editor",
-      "url"      : "https://j.acfk.xyz/living/2017/05/30/Jekyll-Theme-MDUI-Editor.html"
-    } ,
-  
-    {
-      "title"    : "Jekyll Theme MDUI",
-      "url"      : "https://j.acfk.xyz/living/2017/05/29/jekyll-theme-mdui.html"
-    } ,
-  
-    {
-      "title"    : "Liquid 模板语言",
-      "url"      : "https://j.acfk.xyz/living/2017/05/27/liquid-template-language.html"
-    } ,
-  
-    {
-      "title"    : "如何安装 Jekyll ？",
-      "url"      : "https://j.acfk.xyz/technology/2017/05/27/how-to-install-jekyll.html"
-    } ,
-  
-    {
-      "title"    : "如何安装 RVM 和 Ruby？",
-      "url"      : "https://j.acfk.xyz/technology/2017/05/27/how-to-install-rvm.html"
-    } ,
-  
-    {
-      "title"    : "O-MG, Android O!",
-      "url"      : "https://j.acfk.xyz/living/2017/03/23/android-o.html"
-    } ,
-  
-    {
-      "title"    : "使用 abd + fastboot 救我的 Nexus5x",
-      "url"      : "https://j.acfk.xyz/living/2016/10/27/use-adb-and-fastboot-to-save-my-nexus5x.html"
-    } ,
-  
-    {
-      "title"    : "Ubuntu安装Apache，MySQL，PHP以及phpMyAdmin",
-      "url"      : "https://j.acfk.xyz/technology/2016/04/14/ubuntu-installs-apache-masql-php-and-phpmyadmin.html"
+      "title"    : "Pagermaid - 将你变为人形自走bot",
+      "url"      : "https://j.acfk.xyz/technology/2020/06/06/pagermaid-%E5%B0%86%E4%BD%A0%E5%8F%98%E4%B8%BA%E4%BA%BA%E5%BD%A2%E8%87%AA%E8%B5%B0bot.html"
     } 
   
 ]
